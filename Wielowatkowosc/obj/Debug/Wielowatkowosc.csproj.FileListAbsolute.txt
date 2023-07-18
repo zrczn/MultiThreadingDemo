@@ -1,0 +1,66 @@
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe.config
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.pdb
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.AssemblyReference.cache
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Form1.resources
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Properties.Resources.resources
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.GenerateResource.cache
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CoreCompileInputs.cache
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.exe
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.pdb
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.dll
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.xml
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Repos\Repos22\ksiazka\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CopyComplete
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe.config
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.pdb
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.xml
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Form1.resources
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Properties.Resources.resources
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CopyComplete
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.exe
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.pdb
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe.config
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.exe
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Wielowatkowosc.pdb
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.dll
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\OpenAI_API.xml
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Form1.resources
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.csproj.CopyComplete
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.exe
+C:\Users\Patryk\Desktop\Wielowatkowosc\Wielowatkowosc\obj\Debug\Wielowatkowosc.pdb
